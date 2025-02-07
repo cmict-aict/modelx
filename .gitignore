@@ -1,0 +1,7 @@
+certs
+tmp
+.vscode
+__debug_bin
+*.tgz
+/bin
+/data
